@@ -1,4 +1,4 @@
-# frameworks — 投资大师思维框架
+# references — 投资大师思维框架
 
 本目录用于存放股票分析技能 (magnus-secular-analysis) 所依赖的各类投资大师思维框架。每个框架一个子目录，包含参考文档和案例。
 
@@ -13,10 +13,10 @@
 ### 步骤 1：创建目录
 
 ```bash
-mkdir -p frameworks/<大师英文名小写>
+mkdir -p references/<大师英文名小写>
 ```
 
-例如：`frameworks/munger/`、`frameworks/druckenmiller/`
+例如：`references/munger/`、`references/druckenmiller/`
 
 ### 步骤 2：编写文档
 
@@ -35,7 +35,7 @@ mkdir -p frameworks/<大师英文名小写>
 
 ```
 若用户提及/问题符合 **芒格** 框架特征：
-  Read: frameworks/munger/01-core-philosophy.md
+  Read: references/munger/01-core-philosophy.md
   → 走 芒格分支
 ```
 
